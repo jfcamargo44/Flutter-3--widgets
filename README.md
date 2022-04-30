@@ -18,6 +18,8 @@ a separar la lógica del UI entre muchas cosas más.
 
 
 <i><H3 align = "center"> pantalla pricipal de la app </H3>
-<p align="center"><img src = "/assets/images/clase-de-widgets.jpg" alt="mockup">
+<p align="center"><img src = "/assets/images/clase-de-widgets.jpg" alt="alt">
+![](/assets/images/clase-de-widgets.jpg)
+
 
 
