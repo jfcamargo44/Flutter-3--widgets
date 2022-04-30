@@ -8,6 +8,6 @@ En este he aprendido muchas cosas, me tomé un alto ene le curso para prender Gi
 
 Esta es la sección del curso más grande hasta el momento, la cantidad e información escrita en código es lo más grande nunca realizado por mí, en esta sección creo una aplicación con un menú principal que te dirige a diferentes pantallas las cuales contienen algunos de los widgets más usados en flutter, no se trató solo de poner widgets, en esta sección, de muchas lecciones, aprendí a mantener el orden, crear widgets personalizados, leer la documentación de dart/flutter y como usar está a nuestro favor, aprendí a usar archivos como routers para no tener llenos los encabezados con importaciones, a separar la lógica del UI entre muchas cosas más.
 <i align = "center"><H3> pantalla pricipal de la app</H3>
-<img src = "/images/clase-de-widgets.jpg" alt="mockup">
+<p align="center"><img src = "/assets/images/clase-de-widgets.jpg" alt="mockup">
 
 
