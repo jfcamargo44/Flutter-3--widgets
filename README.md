@@ -1,16 +1,13 @@
-# flutter_widgets
+Inicio un nuevo curso de flutter en Udemy, esta vez es un curso más largo, 
+con mucho más trabajo, ya a la fecha de escribir esto es el curso que estoy tomando, 
+dicho curso es "Flutter: Tu guía completa de desarrollo para IOS y Android"
 
-A new Flutter project.
+En este he aprendido muchas cosas, me tomé un alto ene le curso para prender Git y esta es la razón por la cual ahora estoy montando todo lo que he hecho a GitHub.
 
-## Getting Started
+<H3>WIDGETS:</H3>
 
-This project is a starting point for a Flutter application.
+Esta es la sección del curso más grande hasta el momento, la cantidad e información escrita en código es lo más grande nunca realizado por mí, en esta sección creo una aplicación con un menú principal que te dirige a diferentes pantallas las cuales contienen algunos de los widgets más usados en flutter, no se trató solo de poner widgets, en esta sección, de muchas lecciones, aprendí a mantener el orden, crear widgets personalizados, leer la documentación de dart/flutter y como usar está a nuestro favor, aprendí a usar archivos como routers para no tener llenos los encabezados con importaciones, a separar la lógica del UI entre muchas cosas más.
+<i align = "center"><H3> pantalla pricipal de la app</H3>
+<img src = "/images/clase-de-widgets.jpg" alt="mockup">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
